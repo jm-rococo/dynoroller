@@ -1,7 +1,7 @@
 {
-  "name": "node-js-getting-started",
-  "version": "0.3.0",
-  "description": "A sample Node.js app using Express 4",
+  "name": "dynoroller",
+  "version": "0.1.0",
+  "description": "A rolling simulation app with reroll tokens",
   "engines": {
     "node": "12.x"
   },
